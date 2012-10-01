@@ -1,6 +1,6 @@
 {
   "name": "winston-campfire",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Campfire Transport for winston (http://www.github.com/flatiron/winston) ",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,11 @@
     "transport",
     "chat"
   ],
+  "dependencies": {
+    "underscore": ">=1.4.0",
+    "winston": "=0.6.1",
+    "campfire": ">=0.0.1"
+  },
   "author": "CircuitHub <developers@circuithub.com> (circuithub.com)",
   "license": "MIT"
 }
