@@ -1,0 +1,21 @@
+{
+  "name": "winston-campfire",
+  "version": "0.1.0",
+  "description": "Campfire Transport for winston (http://www.github.com/flatiron/winston) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/circuithub/winston-campfire.git"
+  },
+  "keywords": [
+    "winston",
+    "campfire",
+    "transport",
+    "chat"
+  ],
+  "author": "CircuitHub <developers@circuithub.com> (circuithub.com)",
+  "license": "MIT"
+}
