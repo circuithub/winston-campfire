@@ -1,6 +1,6 @@
 {
   "name": "winston-campfire",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "description": "Campfire Transport for winston (http://www.github.com/flatiron/winston) ",
   "main": "index.js",
   "scripts": {
